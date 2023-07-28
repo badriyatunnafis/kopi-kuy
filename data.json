@@ -1,0 +1,92 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+     "lainnya": [
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/04/Dawet-Durian-1.jpg",
+            "nama": "Cendol Ice",
+            "size": "100 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.primarasa.co.id/images/images/taiwan-milk-tea-with-bubble_1339-100678.jpg",
+            "nama": "Boba Ice",
+            "size": "100 Ml",
+            "harga": "40.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primarasa.co.id%2Fartikel-boga%2Fberbagai-dessert-unik-yang-dipadukan-dengan-boba&psig=AOvVaw3HOxw1D1FMqbwUUKMYqWV3&ust=1690518918019000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCMC_3u6HroADFQAAAAAdAAAAABAE"
+        },
+        {
+            "foto": "https://fik.unida.gontor.ac.id/wp-content/uploads/2020/02/Thai-tea.png",
+            "nama": "Thai Tea Ice",
+            "size": "100 Ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffik.unida.gontor.ac.id%2Fthai-tea-minuman-viral-anak-millennial%2F&psig=AOvVaw2ZhYZb-oQvuJO9Sq3VQWip&ust=1690519582723000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCKicyquKroADFQAAAAAdAAAAABAE"
+        },
+        {
+            "foto": "https://barapigrill.com/wp-content/uploads/2019/03/GF-Iced-Milo-1.jpg",
+            "nama": "Milo Ice",
+            "size": "100 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbarapigrill.com%2Fmilo-14k%2F&psig=AOvVaw27aGoUqN-jlpQ6LWBN0oWW&ust=1690519933228000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCJjUxtKLroADFQAAAAAdAAAAABAE"
+        },
+        {
+            "foto": "https://cf.shopee.co.id/file/5047dd99ed32441e7b74959f29b809be",
+            "nama": "Marjan",
+            "size": "100 Ml",
+            "harga": "33.500",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.co.id%2FMarjan-sirup-Grenadine-syrup-i.313218815.19333313846&psig=AOvVaw2hm7yjEWvQ3eSJKXncOmbv&ust=1690532937003000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCKiUuIu8roADFQAAAAAdAAAAABAE"
+        },
+        {
+            "foto": "https://i0.wp.com/i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/9d1a6535-48a1-463d-84b1-09481cc2fc8f_Go-Biz_20221004_184353.jpeg",
+            "nama": "Aneka Jus",
+            "size": "100 Ml",
+            "harga": "17.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carikulinerindonesia.com%2Faneka-jus-buah-kenjeransidotopo-wetan_XfEPIhRKUiqf2JHi8ztKVg.html&psig=AOvVaw2Pg-RsPOnsVRMoVtcgE1XI&ust=1690586629796000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCNDKrI6EsIADFQAAAAAdAAAAABAI"
+        },
+        {
+            "foto": "https://d1r7omh34z6onh.cloudfront.net/gk/production/2cda67555be7c918da8673c32938df4e.jpg",
+            "nama": "Minuman Bersoda",
+            "size": "100 Ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhinneka.com%2Fcoca-cola-sprite-fanta-carbonated-drink-390ml-rtd-botol-fanta-merah-390-sku0031478732&psig=AOvVaw1QvncLzn5XOE71LuAfgZfC&ust=1690586769626000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCOjo_dCEsIADFQAAAAAdAAAAABAE"
+        }
+    ]
+}
